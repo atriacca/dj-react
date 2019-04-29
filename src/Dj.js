@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 class Dj extends React.Component {
     constructor(){
@@ -37,4 +37,4 @@ class Dj extends React.Component {
         }
 }
 
-export default Dj;
+export default Dj
